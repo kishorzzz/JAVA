@@ -3,9 +3,9 @@ import java.util.Arrays;
 public class maxgap {
     public static void main(String args[]){
         int[] arr1={3,6,9,1};
-        System.out.println(maxgap(arr1));
+        System.out.println(maxgapp(arr1));
     }
-    static int maxgap(int[] arr2){
+    static int maxgapp(int[] arr2){
         if(arr2 ==null || arr2.length<2){
             return 0;
         }
