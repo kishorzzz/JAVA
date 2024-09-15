@@ -34,7 +34,6 @@ public class ProductWithoutSelf {
                 ans[i] = product / nums[i];
             }
         }
-
         return ans;
     }
 }
