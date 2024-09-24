@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "loopscope",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.loopscope",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "shadowing",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.shadowing",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "blockscope",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.blockscope",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "changingvalues",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.changingvalues",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "basics",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.basics",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ProductWithoutSelf",
+            "request": "launch",
+            "mainClass": "ProductWithoutSelf",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "Twosum",
+            "request": "launch",
+            "mainClass": "Twosum",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "intersectionn",
+            "request": "launch",
+            "mainClass": "intersectionn",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "maxgap",
+            "request": "launch",
+            "mainClass": "maxgap",
+            "projectName": "JAVA_4e356704"
+        }
+    ]
+}
