@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "methodoverloading",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.methodoverloading",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
+            "name": "varargs",
+            "request": "launch",
+            "mainClass": "FUNCTIONS.varargs",
+            "projectName": "JAVA_4e356704"
+        },
+        {
+            "type": "java",
             "name": "loopscope",
             "request": "launch",
             "mainClass": "FUNCTIONS.loopscope",
